@@ -8,5 +8,7 @@ class Dog
   def bark
     puts "woof!"
   end
+  @name = Bailey
+  Bailey.bark
 end
 # Your code goes here!
